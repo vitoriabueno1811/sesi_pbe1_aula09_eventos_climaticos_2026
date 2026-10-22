@@ -43,44 +43,44 @@
 ---
  - Listar Usuários
 
-![listar_usu](../eventos_climaticos/prints/Usu_ListarGET.png)
+![listar_usu](./prints/Usu_ListarGET.png)
 
  - Login Usuários
 
- ![login_usu](../eventos_climaticos/prints/Usuarios_LoginPOST.png)
+ ![login_usu](./prints/Usuarios_LoginPOST.png)
 
   - Cadastrar Usuários
 
-![Cadastro_usu](../eventos_climaticos/prints/Usu_CadastrarPOST.png)
+![Cadastro_usu](./prints/Usu_CadastrarPOST.png)
 
  - Alterar Usuários 
 
- ![Alterar_usu](../eventos_climaticos/prints/Usu_alterarPUT.png)
+ ![Alterar_usu](./prints/Usu_alterarPUT.png)
 
- ![Alterar_usu](../eventos_climaticos/prints/Usu_alterarPUTGET.png)
+ ![Alterar_usu](./prints/Usu_alterarPUTGET.png)
 
   - Excluir Usuários 
 
-![Excluir_usu](../eventos_climaticos/prints/Usu_DELETE.png)
+![Excluir_usu](./prints/Usu_DELETE.png)
 
  - Listar Eventos 
 
- ![Listar_Eve](../eventos_climaticos/prints/Eventos_listarGET.png)
+ ![Listar_Eve](./prints/Eventos_listarGET.png)
 
   - Cadastrar Eventos 
 
-![Cadastro_eve](../eventos_climaticos/prints/Eventos_cadastrarPOST.png)
+![Cadastro_eve](./prints/Eventos_cadastrarPOST.png)
 
    - Alterar Eventos
 
-![Alterar_Eve](../eventos_climaticos/prints/Eventos_alterarPUT.png)
+![Alterar_Eve](./prints/Eventos_alterarPUT.png)
 
-![Alterar_Eve](../eventos_climaticos/prints/Eventos_alterarGET.png)
+![Alterar_Eve](./prints/Eventos_alterarGET.png)
 
  - Excluir Eventos 
 
- ![Excluir_Eve](../eventos_climaticos/prints/Eventos_excliurDELETE.png)
+ ![Excluir_Eve](./prints/Eventos_excliurDELETE.png)
 
- ![Excluir_Eve](../eventos_climaticos/prints/Eventos_excliurGET.png)
+ ![Excluir_Eve](./prints/Eventos_excliurGET.png)
 
  ---
