@@ -7,7 +7,7 @@
 
 ## MER & DER conceitual e lógico
 ---
-(![MER e DER](./prints/mer_der_conceitual.png))
+![MER e DER](./prints/mer_der_conceitual.png)
 
 ---
 ## UML - DC (Diagrama de Classe)
