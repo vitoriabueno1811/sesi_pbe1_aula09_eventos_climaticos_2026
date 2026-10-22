@@ -12,7 +12,7 @@
 ---
 ## UML - DC (Diagrama de Classe)
 ---
-![UMLDC](../eventos_climaticos/prints/uml_dc%20(1).png)
+![UMLDC](./prints/uml_dc%20(1).png)
 
 ---
 
