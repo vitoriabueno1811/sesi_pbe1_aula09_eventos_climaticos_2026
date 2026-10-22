@@ -1,50 +1,86 @@
 # sesi_pbe1_aula09_eventos_climaticos_2026
 
-Eventos Climáticos
-Projeto BackEnd Descrição
-Este projeto consiste em um backend para o gerenciamento de usuários e eventos climáticos. O sistema permite cadastrar, listar, atualizar e excluir usuários e eventos climáticos, além de consultar um resumo dos eventos com a média das temperaturas registradas.
+ ## Eventos Climáticos - Back-End
+ Backend para o gerenciamento de usuários e eventos climáticos. O sistema permite cadastrar, listar, atualizar e excluir usuários e eventos climáticos.
+ 
+ ---
 
-MER & DER conceitual e lógico
-MER DER mer
+## MER & DER conceitual e lógico
+---
+![MER e DER](../eventos_climaticos/prints/mer_der_conceitual.png)
 
-UML diagrama de classes
-UML uml
+---
+## UML - DC (Diagrama de Classe)
+---
+![UMLDC](../eventos_climaticos/prints/uml_dc%20(1).png)
 
-Tecnologias Utilizadas
-Node.js
-Java Script
-Thunder Client
-XAMPP
-MariaDB / MySQL
-VS Code
-Instruções para testar
-1 - Use os códigos no repositório acima, inicie o servidor no terminal (CMD ou NODE) com as dependências:
+---
 
-npm init -y
-npm i express cors
-npm install mysql
-npm run dev (após criar o server.js)
+## Tecnologias Utilizadas
+---
+ - Node.js
+ - Java Script
+ -Thunder Client
+ -XAMPP
+ -MariaDB / MySQL
+ - VS Code
+ ---
+
+ ## Instruções para testar
+ ---
+ 1 - Use os códigos no repositório acima, inicie o servidor no terminal (CMD ou NODE) com as dependências:
+
+ - npm init -y
+ - npm i express cors
+ - npm install mysql
+ - npm run dev
+
 2 - Inicie uma nova página no Thunder Client, usando o link do servidor, e teste os códigos.
 
-Thunder prints
-listar usuários
+---
 
-listar
+## Thunder prints
+---
+ - Listar Usuários
 
-servidor
+![listar_usu](../eventos_climaticos/prints/Usu_ListarGET.png)
 
-servidor
+ - Login Usuários
 
-mudar/atualizar usuários put
+ ![login_usu](../eventos_climaticos/prints/Usuarios_LoginPOST.png)
 
-deletar usuários del
+  - Cadastrar Usuários
 
-listar eventos get
+![Cadastro_usu](../eventos_climaticos/prints/Usu_CadastrarPOST.png)
 
-mudar/atualizar eventos put
+ - Alterar Usuários 
 
-deletar eventos del
+ ![Alterar_usu](../eventos_climaticos/prints/Usu_alterarPUT.png)
 
-eventos resumo e média res
+ ![Alterar_usu](../eventos_climaticos/prints/Usu_alterarPUTGET.png)
 
-login de usuários login
+  - Excluir Usuários 
+
+![Excluir_usu](../eventos_climaticos/prints/Usu_DELETE.png)
+
+ - Listar Eventos 
+
+ ![Listar_Eve](../eventos_climaticos/prints/Eventos_listarGET.png)
+
+  - Cadastrar Eventos 
+
+![Cadastro_eve](../eventos_climaticos/prints/Eventos_cadastrarPOST.png)
+
+   - Alterar Eventos
+
+![Alterar_Eve](../eventos_climaticos/prints/Eventos_alterarPUT.png)
+
+![Alterar_Eve](../eventos_climaticos/prints/Eventos_alterarGET.png)
+
+ - Excluir Eventos 
+
+ ![Excluir_Eve](../eventos_climaticos/prints/Eventos_excliurDELETE.png)
+
+ ![Excluir_Eve](../eventos_climaticos/prints/Eventos_excliurGET.png)
+
+ ---
