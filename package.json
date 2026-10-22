@@ -12,8 +12,16 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^5.2.1",
+    "express": "^5.3.0",
     "mysql": "^2.18.1"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriabueno1811/sesi_pbe1_aula09_eventos_climaticos_2026.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitoriabueno1811/sesi_pbe1_aula09_eventos_climaticos_2026/issues"
+  },
+  "homepage": "https://github.com/vitoriabueno1811/sesi_pbe1_aula09_eventos_climaticos_2026#readme"
 }
