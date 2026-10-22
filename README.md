@@ -1,4 +1,4 @@
-# sesi_pbe1_aula09_eventos_climaticos_2026
+# Eventos Climáticos
 
  ## Eventos Climáticos - Back-End
  Backend para o gerenciamento de usuários e eventos climáticos. O sistema permite cadastrar, listar, atualizar e excluir usuários e eventos climáticos.
@@ -7,7 +7,7 @@
 
 ## MER & DER conceitual e lógico
 ---
-![MER e DER](../eventos_climaticos/prints/mer_der_conceitual.png)
+(![MER e DER](./prints/mer_der_conceitual.png))
 
 ---
 ## UML - DC (Diagrama de Classe)
